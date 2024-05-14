@@ -4,6 +4,7 @@
     "min_version": "2.7.1",
     "title" : "stay_updated",
     "description": "update_description",
+    "update_button" : "Update Now",
     "highlights" : [
         "Demo Feture title 1 ",
         "Demo Feture title 2 ",
