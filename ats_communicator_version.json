@@ -1,0 +1,12 @@
+{
+    "app_name" : "ATS Communicator",
+    "version": "2.7.7",
+    "min_version": "2.7.1",
+    "title" : "stay_updated",
+    "description": "update_desciption",
+    "highlights" : [
+        "Demo Feture title 1 ",
+        "Demo Feture title 2 ",
+        "Demo Feture title 3 "
+    ]
+}
