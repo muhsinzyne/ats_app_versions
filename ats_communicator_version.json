@@ -6,8 +6,7 @@
     "description": "update_description",
     "update_button" : "Update Now",
     "highlights" : [
-        "Demo Feture title 1 ",
-        "Demo Feture title 2 ",
-        "Demo Feture title 3 "
+        "- Introduced App upgrader",
+        "- Bug fixes & Performace Improvement"
     ]
 }
