@@ -1,7 +1,7 @@
 {
     "app_name" : "ATS Communicator",
-    "version": "2.7.9",
-    "min_version": "2.7.9",
+    "version": "2.7.8",
+    "min_version": "2.7.8",
     "title" : "stay_updated",
     "description": "update_description",
     "update_button" : "Update Now",
