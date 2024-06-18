@@ -1,12 +1,12 @@
 {
     "app_name" : "ATS Communicator",
-    "version": "2.8.0",
-    "min_version": "2.8.0",
+    "version": "2.8.3",
+    "min_version": "2.8.3",
     "title" : "stay_updated",
     "description": "update_description",
     "update_button" : "Update Now",
     "highlights" : [
-        "- Introduced App upgrader",
-        "- Bug fixes & Performace Improvement"
+        "-Critical Bug Fixes: Addressed several important bugs that were affecting app stability and performance.",
+        "-Student Marks Display: Made corrections to ensure accurate and consistent display of student marks."
     ]
 }
